@@ -1,7 +1,10 @@
-title: "Simon Kojima Personal Portfolio"
+title: "Simon Kojima"
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
+
+logo: "./logo.png"
+search_enabled: false
 
 callouts_level: quiet # or loud
 callouts:
