@@ -37,7 +37,7 @@ nav_order: 0
 
 ## Overview
 I have an interest in measuring and interpreting various electrophysiological signals and their applications to medicine, welfare, neuroscience, psychology, and other fields. Mainly, I aim to unravel brain functions by measuring and interpreting electroencephalogram (EEG) and develop a machine learning method to decode brain signals.  
-Using these findings, I have been researching a non-invasice brain-computer interface (BCI) since 2018. So far, I have been working on a multiclass auditory BCI system using the auditory Illusion and a BCI-based language rehabilitation system for post-stroke aphasia patients.
+Using these findings, I have been researching a non-invasive brain-computer interface (BCI) since 2018. So far, I have been working on a multiclass auditory BCI system using the auditory Illusion and a BCI-based language rehabilitation system for post-stroke aphasia patients.
 
 ## Interest
 - Biomedical engineering
