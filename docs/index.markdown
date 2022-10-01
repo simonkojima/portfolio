@@ -8,6 +8,8 @@ nav_order: 0
 ---
 
 <meta property="og:image" content="./media/favicon-16x16.png"/>
+<meta property="og:title" content="Simon Kojima"/>
+<meta property="og:description" content="Neurotechnology Researcher"/>
 
 <style>
 #top p{ 
