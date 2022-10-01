@@ -30,5 +30,5 @@ Nothing yet...
 - **Kojima S**, Kanoh S (2019), "	
 A basic study on event-related potentials elicited by stream segregation of musical tone", 医用・生体工学研究会（電気学会）, **Encouragement Award**
 
-# Miscs
+# Miscellaneous
 - Japan public-private partnership student study abroad program (Tobitate! young ambassador program), From Feb 2022 - Present.
