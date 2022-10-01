@@ -7,16 +7,36 @@ title: Home
 nav_order: 0
 ---
 
-![my image](./image_cropped.jpg){: width="170" : .float-left}
-<br/>
-<h1>&ensp;Simon Kojima</h1>
-<h3>&ensp;&ensp;&ensp;BCI Researcher</h3>
-&ensp;&ensp; - Ph.D. candidate at Shibaura Institute of Technology, Japan<br/>
-&ensp;&ensp; - Guest Ph.D. at Donders Institute, Radboud University, Netherlands<br/>
-<br/><br/><br/><br/>
+<style>
+#top p{ 
+  display: inline-block;
+}
+#top #image {
+  width: 10em;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  vertical-align: top;
+}
+#top #desc {
+  width: 70%;
+  padding: 20px 0 0 10px;
+  margin: 0 0 0 0;
+  vertical-align: top;
+}
+</style>
 
+<div id='top'>
 
-hogehogehogehogehoge
+<p id='image'><img src="./image_cropped.jpg"></p>
+
+<p id='desc'>
+<span style="font-size:2.5em;font-weight: 300;">Simon Kojima</span><br>
+<span style="font-size:1.2em;font-weight: 500">&ensp;BCI Researcher</span><br>
+<span style="font-size:1em;">&emsp;- Ph.D. candidate at Shibaura Institute of Technology, Japan</span><br>
+<span style="font-size:1em;">&emsp;- Guest Ph.D. at Donders Institute, Radboud University, Netherlands</span>
+</p>
+
+</div>
 
 In my research, I aim to unravel the neural mechanisms underlying human visual perception and develop sophisticated machine learning methods to model and decode signals from the human brain. Combining these two efforts (i.e., artificial intelligence and cognitive neuroscience), I work towards assistive devices by advancing neurotechnological systems including (non-invasive) brain-computer interfacing, for instance for communication and control.
 
