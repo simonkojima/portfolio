@@ -6,7 +6,6 @@ nav_order: 1
 ---
 
 # Journal Publications
-Nothing yet...
 
 # Conferences
 - Takeda Y, **Kojima S**, Kanoh S (2022), "視聴覚刺激の意味的関係の有無と事象関連電位との関係に関する検討",  Life Engineering Symposium 2022 (The Society of Instrument and Control Engineers)
