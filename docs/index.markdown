@@ -18,7 +18,7 @@ nav_order: 0
   vertical-align: middle;
 }
 #top #desc {
-  width: 80%;
+  width: 32.5em;
   padding: 0 0 0 1.5%;
   margin: 0 0 0 0;
   vertical-align: middle;
@@ -30,10 +30,10 @@ nav_order: 0
 <p id='image'><img src="./image_cropped.jpg"></p>
 
 <p id='desc'>
-<span style="font-size:250%;font-weight: 300;">Simon Kojima</span><br>
-<span style="font-size:120%;font-weight: 500">&ensp;BCI Researcher</span><br>
-<span style="font-size:100%;">&emsp;- Ph.D. candidate at Shibaura Institute of Technology, Japan</span><br>
-<span style="font-size:100%;">&emsp;- Guest Ph.D. at Donders Institute, Radboud University, Netherlands</span>
+<span style="font-size:2.5em;font-weight: 300;">Simon Kojima</span><br>
+<span style="font-size:1.2em;font-weight: 500">&ensp;BCI Researcher</span><br>
+<span style="font-size:1em;">&emsp;- Ph.D. candidate at Shibaura Institute of Technology, Japan</span><br>
+<span style="font-size:1em;">&emsp;- Guest Ph.D. at Donders Institute, Radboud University, Netherlands</span>
 </p>
 
 </div>
