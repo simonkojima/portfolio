@@ -16,7 +16,7 @@ nav_order: 1
 - Takaichi M, **Kojima S**, Kanoh S (2022), "脳波からの皮質電流推定手法を用いた手指運動によるγ帯域脳波の解析", The 61th Annual Conference of Japanese Society for Medical and Biological Engineering.
 - **Kojima S**, Kanoh S (2021), "Evaluation of 4-class auditory BCI system which detects the intension to segregated auditory stimuli", The 60th Annual Conference of Japanese Society for Medical and Biological Engineering.
 - **Kojima S**, Kanoh S (2021), "Evaluation of 4-class auditory BCI system based on auditory stream segregation", 10th International IEEE EMBS Conference on Neural Engineering
-- Kanoh S, **Kojima S** (2019), "Evaluation of Auditory BCI System Based on Stream Segregation", 8th Graz Brain-Computer Interface Conference 2019
+- Kanoh S, **Kojima S** (2019), "Evaluation of Auditory BCI System Based on Stream Segregation", 8th Graz Brain-Computer Interface Conference 2019, DOI: 10.3217/978-3-85125-682-6-44
 
 # Workshops
 - Takeda Y, **Kojima S**, Kanoh S (2023), "Effect of multisensory integration of event-related potentials", MBE (IEICE)
