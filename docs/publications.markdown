@@ -8,7 +8,7 @@ nav_order: 1
 # Journal Publications
 
 # Conferences
-- **Kojima S**, Musso M, Aalberts C, Kortenbach B E, Milosevska S, Wit K de, Kanoh S, Tangermann M (2023), "The influence of pitch modulation on the performance of a BCI-based language training system", 10th International BCI Meeting, DOI: 10.3217/978-3-85125-962-9-90
+- **Kojima S**, Musso M, Aalberts C, Kortenbach B E, Milo\check{s}evska S, Wit K de, Kanoh S, Tangermann M (2023), "The influence of pitch modulation on the performance of a BCI-based language training system", 10th International BCI Meeting, DOI: 10.3217/978-3-85125-962-9-90
 - Takeda Y, **Kojima S**, Kanoh S (2022), "視聴覚刺激の意味的関係の有無と事象関連電位との関係に関する検討",  Life Engineering Symposium 2022 (The Society of Instrument and Control Engineers)
 - Shimizu K, **Kojima S**, Kanoh S (2022), "空間に配置された実⾳源と仮想⾳源への選択的注意に伴う P300 について", Life Engineering Symposium 2022 (The Society of Instrument and Control Engineers)
 - Mizukami N, **Kojima S**, Kanoh S (2022), "⾳脈分凝知覚の有無による事象関連電位応答の違いについての検討 ", Life Engineering Symposium 2022 (The Society of Instrument and Control Engineers)
@@ -19,6 +19,9 @@ nav_order: 1
 - Kanoh S, **Kojima S** (2019), "Evaluation of Auditory BCI System Based on Stream Segregation", 8th Graz Brain-Computer Interface Conference 2019
 
 # Workshops
+- Takeda Y, **Kojima S**, Kanoh S (2023), "Effect of multisensory integration of event-related potentials", MBE (IEICE)
+- Shimizu K, **Kojima S**, Kanoh S (2023), "On event-related potentials induced by auditory stimuli virtually localized using a loudspeaker array", MBE (IEICE)
+- Takaichi M, **Kojima S**, Kanoh S (2023), "On detection of different finger movement by cortical current estimated from EEG and fMRI", MBE (IEICE)
 - Noguchi Y, **Kojima S**, Kanoh S (2023), "生理的暗点を用いて空間的にマスキングされた複数の刺激に対するSSVEP応答", 電気学会 医用・生体工学研究会
 - Mizukami N, **Kojima S**, Kanoh S (2023), "音脈分凝知覚された音脈に対する聴覚定常応答の特性評価とパターン分類", 電気学会 医用・生体工学研究会
 - Kobayashi F, **Kojima S**, Kanoh S (2022), "Investigation of event-related potentials elicited by attribute change of virtually localized moving sound", MBE NC (IEICE)
