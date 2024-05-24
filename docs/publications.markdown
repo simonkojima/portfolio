@@ -6,8 +6,16 @@ nav_order: 1
 ---
 
 # Journal Publications
+- **Kojima S**, Kanoh S (2024), "An auditory brain-computer interface based on selective attention to multiple tone streams", PLoS ONE 19(5): e0303565, DOI: 10.1371/journal.pone.0303565
 
 # Conferences
+- **Kojima S**, Kanoh S (2024), "Introducing the ASME-speller, auditory BCI speller utilizing stream segregation: a pilot study", 9th Graz Brain-Computer Interface Conference 2024.
+- Kanoh S, Mizukami N, **Kojima S** (2024), "A New Auditory Brain-Computer Interface Based on Stream Segregation Utilizing ASSR", 9th Graz Brain-Computer Interface Conference 2024.
+- **Kojima S**, Shiba R, Morimoto Y, Furukawa K, Kanoh S, Komendziński T, Otake-Matsuura M, Rutkowski, T (2024), "Spatial Auditory Soundscapes for Developing Digital Neurobiomarkers or Cognitive Interventions in Early-onset Dementia Based on EEG and fNIRS Machine-learning Analysis", 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society.
+- Okada S, Nemoto R, **Kojima S**, Kanoh S (2024), "指タッピングに伴う脳波と皮質電流の信号品質の比較について", The 63rd Annual Conference of Japanese Society for Medical and Biological Engineering.
+- **Kojima S**, Kanoh S (2024), "音脈分凝を用いた聴覚BCIへのdynamic stoppingの適用による制度と情報伝達速度に対する効果", The 63rd Annual Conference of Japanese Society for Medical and Biological Engineering.
+- Mizukami N, **Kojima S**, Kanoh S (2023), "The effect of selective attention to segregated streams on event-related potentials", 2023 15th Biomedical Engineering International Conference (BMEiCON), DOI: 10.1109/bmeicon60347.2023.10322094
+- **Kojima S**, Kanoh S (2023), "Towards realizing multi-class auditory brain-computer interface paradigm based on stream segregation: a preliminary study", 2023 15th Biomedical Engineering International Conference (BMEiCON), DOI: 10.1109/bmeicon60347.2023.10322085
 - **Kojima S**, Musso M, Aalberts C, Kortenbach B E, Miloševska S, Wit K de, Kanoh S, Tangermann M (2023), "The influence of pitch modulation on the performance of a BCI-based language training system", 10th International BCI Meeting, DOI: 10.3217/978-3-85125-962-9-90
 - Takeda Y, **Kojima S**, Kanoh S (2022), "視聴覚刺激の意味的関係の有無と事象関連電位との関係に関する検討",  Life Engineering Symposium 2022 (The Society of Instrument and Control Engineers)
 - Shimizu K, **Kojima S**, Kanoh S (2022), "空間に配置された実⾳源と仮想⾳源への選択的注意に伴う P300 について", Life Engineering Symposium 2022 (The Society of Instrument and Control Engineers)
@@ -19,6 +27,9 @@ nav_order: 1
 - Kanoh S, **Kojima S** (2019), "Evaluation of Auditory BCI System Based on Stream Segregation", 8th Graz Brain-Computer Interface Conference 2019, DOI: 10.3217/978-3-85125-682-6-44
 
 # Workshops
+- Kimura Y, **Kojima S**, Kanoh S (2024), "継時的な運動想起を用いたBCIに関する基礎的検討",　電気学会 医用・生体工学研究会
+- Ishida A, **Kojima S**, Kanoh S (2024), "体性感覚の想起によって誘発される脳波周期律動の特性に関する基礎的検討",　電気学会 医用・生体工学研究会
+- Nemoto R, Okada S, **Kojima S**, Kanoh S (2024), "脳波から推定された皮質電流による手指動作に伴うガンマ帯域活動の評価手法の検討",　電気学会 医用・生体工学研究会
 - Takeda Y, **Kojima S**, Kanoh S (2023), "Effect of multisensory integration of event-related potentials", MBE (IEICE)
 - Shimizu K, **Kojima S**, Kanoh S (2023), "On event-related potentials induced by auditory stimuli virtually localized using a loudspeaker array", MBE (IEICE)
 - Takaichi M, **Kojima S**, Kanoh S (2023), "On detection of different finger movement by cortical current estimated from EEG and fMRI", MBE (IEICE)
