@@ -35,7 +35,7 @@ nav_order: 0
 <span style="font-size:2.5em;font-weight: 300;">Simon Kojima</span><br>
 <span style="font-size:1.2em;font-weight: 500">&ensp;Neurotechnology Researcher</span><br>
 <span style="font-size:1em;">&emsp;- Ph.D. candidate at Shibaura Institute of Technology, Tokyo, Japan</span><br>
-<span style="font-size:1em;">&emsp;- Research Intern at RIKEN AIP (Advanced Intelligence Project), Tokyo, Japan</span>
+<span style="font-size:1em;">&emsp;- Research Intern at RIKEN AIP (Advanced Intelligence Project), Tokyo, Japan</span><br>
 <span style="font-size:1em;">&emsp;- Guest Ph.D. at Donders Institute, Radboud University, Nijmegen, Netherlands</span>
 </p>
 </div>
