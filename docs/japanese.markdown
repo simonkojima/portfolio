@@ -31,6 +31,7 @@ nav_order: 2
 <span style="font-size:2.5em;font-weight: 300;">小島 宰門</span><br>
 <span style="font-size:1.2em;font-weight: 500">&ensp;神経工学研究</span><br>
 <span style="font-size:1em;">&emsp;- 芝浦工業大学, 博士後期課程</span><br>
+<span style="font-size:1em;">&emsp;- 理化学研究所 革新知能統合研究センター, 研究パートタイマー</span><br>
 <span style="font-size:1em;">&emsp;- Donders Institute, Radboud University, 客員研究員</span>
 </p>
 </div>
