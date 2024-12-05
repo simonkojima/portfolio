@@ -57,9 +57,9 @@ Using these findings, I have been researching a non-invasive brain-computer inte
 
 
 ## Education
-- PhD in Electronics Engineering, From 2021 - Present
-- MSc in Electronics Engineering, Shibaura Institute of Technology, 2021  
-- BSc in Electronics Engineering, Shibaura Institute of Technology, 2019  
+- PhD in Engineering, From 2021 - Present
+- Master of Engineering in Electrical Engineering and Computer Science, Shibaura Institute of Technology, 2021  
+- Bachelor of Engineering in Electronics Engineering, Shibaura Institute of Technology, 2019  
 
 ## Affiliated Academic Society
 - [IEEE Engineering in Medicine & Biology Society](https://www.embs.org/)
