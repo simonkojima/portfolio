@@ -26,7 +26,7 @@ nav_order: 2
 </style>
 
 <div id='top'>
-<p id='image'><img src="./media/image_cropped.jpg"></p>
+<p id='image'><img src="./media/DSC05757_2_small.jpeg"></p>
 <p id='desc'>
 <span style="font-size:2.5em;font-weight: 300;">小島 宰門</span><br>
 <span style="font-size:1.2em;font-weight: 500">&ensp;神経工学研究</span><br>
